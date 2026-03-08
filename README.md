@@ -20,7 +20,7 @@
 
 ✨ Estudante  
 🌸 Interessada em **programação e psicologia**  
-📚 Estudando **Java lógica de programação**  
+📚 Estudando **Java e lógica de programação**  
 🌎 Brasil  
 
 ---
