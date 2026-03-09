@@ -18,7 +18,7 @@
 
 ## 🌷 Sobre mim
 
-✨ Estudante  
+✨ Desejo um dia contribuir com tecnologias para a saúde humana/animal  
 🌸 Interessada em **programação e psicologia**  
 📚 Estudando **Java e lógica de programação**  
 🌎 Brasil  
@@ -48,10 +48,9 @@
 
 ---
 
-## 🌸 Um pouco de inspiração
 
 <p align="center">
-<i>"Pequenos passos todos os dias levam a grandes conquistas."</i>
+<i>"🌸Pequenos passos todos os dias levam a grandes conquistas."</i>
 </p>
 
 ---
@@ -60,11 +59,11 @@
 
 <p>
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:giovanaandrade008@gmail.com">
 <img src="https://img.shields.io/badge/email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/giovana-andrade-527776318/)">
 <img src="https://img.shields.io/badge/linkedin-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
